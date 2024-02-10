@@ -13,4 +13,4 @@
 
 
 
-[linkedin]: https://https://www.linkedin.com/in/akiwandemacauley/
+[linkedin]: https://www.linkedin.com/in/akiwandemacauley/

@@ -5,9 +5,8 @@
 - <b>Azure / Cloud Cyber Security Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/MVTRXWRLD/Azure-Net.git)
 
-
- - <b>Running a vulnerability scanner - Burpsuite project </b>
-https://github.com/MVTRXWRLD/Burp-Suite.git
+- <b>Running a vulnerability scanner - Burpsuite project</b>
+  - [Modify HTTP request with Burp Proxy](https://github.com/MVTRXWRLD/Burp-Suite.git)
 
 
 

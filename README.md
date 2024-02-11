@@ -8,6 +8,8 @@
 - <b>Running a vulnerability scanner - PortSwigger </b>
   - [BurpSuite Projects](https://github.com/MVTRXWRLD/Burp-Suite.git)
 
+- <b>Home Lab - SOC Automation Project </b>
+  - [Lab Diagram](https://github.com/MVTRXWRLD/SOC-AUTOMATION.git)
 
 
 <h2> 🤳 Connect with me:</h2>

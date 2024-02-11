@@ -6,6 +6,10 @@
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/MVTRXWRLD/Azure-Net.git)
 
 
+ - <b>Running a vulnerability scanner - Burpsuite project </b>
+
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
